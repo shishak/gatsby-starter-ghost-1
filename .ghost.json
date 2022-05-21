@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://shishak.herokuapp.com",
-    "contentApiKey": "d63e326ad4dfa1dcfd3e454689"
+    "apiUrl": "https://www.muz.agency",
+    "contentApiKey": "1b8a10058d53ff68590f44905d"
   },
   "production": {
-    "apiUrl": "https://shishak.herokuapp.com",
-    "contentApiKey": "d63e326ad4dfa1dcfd3e454689"
+    "apiUrl": "https://www.muz.agency",
+    "contentApiKey": "1b8a10058d53ff68590f44905d"
   }
 }
